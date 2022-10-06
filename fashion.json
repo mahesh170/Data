@@ -1,0 +1,112 @@
+[
+    {
+        "image": "https://i.ibb.co/HpkT5G0/5f5c2646fccf.jpg",
+        "brand": "IDISI CLOTHES",
+        "description": "Polycotton Shirt Fabric Printed",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 175,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.9,
+        "item_id": 1
+    },
+    {
+        "image": "https://i.ibb.co/hKmb6hk/8dd90f203cd5.jpg",
+        "brand": "IDISI CLOTHES",
+        "description": "Unstitched Polycotton Shirt Fabric Printed",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 75,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.4,
+        "item_id": 2
+    },
+    {
+        "image": "https://i.ibb.co/BrLP7BD/9c14dafd9040.jpg",
+        "brand": "IDISI CLOTHES",
+        "description": "Unstitched Polycotton Shirt Fabric Printed",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 75,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.4,
+        "item_id": 3
+    },
+    {
+        "image": "https://i.ibb.co/MGT4YDb/7e9ad9bf0da7.jpg",
+        "brand": "TINCH CLOTHES",
+        "description": "Casual Regular Sleeves Floral Print Women Multicolor To...",
+        "new_price": 218,
+        "old_price": 499,
+        "discount": 56,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.7,
+        "item_id": 4
+    },
+    {
+        "image": "https://i.ibb.co/ccPk8Qc/4228885c2c89.jpg",
+        "brand": "IDISI CLOTHES",
+        "description": "Unstitched Polycotton Shirt Fabric Printed",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 75,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4,
+        "item_id": 5
+    },
+    {
+        "image": "https://i.ibb.co/6gfPr4T/73cc4d6f6723.jpg",
+        "brand": "IDISI CLOTHES",
+        "description": "Unstitched Polycotton Shirt Fabric Printed",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 75,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.7,
+        "item_id": 6
+    },
+    {
+        "image": "https://i.ibb.co/XJ9yqt2/4af2ed9333da.jpg",
+        "brand": "IDISI CLOTHES",
+        "description": "Unstitched Polycotton Shirt Fabric Printed",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 75,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4,
+        "item_id": 7
+    },
+    {
+        "image": "https://i.ibb.co/5jvGtx3/d3a54d93997b.jpg",
+        "brand": "DORCHIS",
+        "description": "Solid Men Dark Blue Sports Shorts",
+        "new_price": 499,
+        "old_price": 199,
+        "discount": 54,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.9,
+        "item_id": 8
+    },
+    {
+        "image": "https://i.ibb.co/fSkqFTj/233f4438c3f3.jpg",
+        "brand": "IDISI CLOTHES",
+        "description": "Unstitched Polycotton Shirt Fabric Printed",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 75,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.2,
+        "item_id": 9
+    },
+    {
+        "image": "https://i.ibb.co/bLMGkZt/bbaa124e6b26.jpg",
+        "brand": "PROTOCOL",
+        "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
+        "new_price": 249,
+        "old_price": 999,
+        "discount": 75,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.8,
+        "item_id": 10
+    }
+]

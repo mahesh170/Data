@@ -1,0 +1,112 @@
+[
+    {
+        "image": "https://i.ibb.co/7S1vPPM/07573a7a4191.jpg",
+        "brand": "Goldstar",
+        "description": "Medium 29 L Laptop Backpack Goldstarbags MEDIUM 30L lap...",
+        "new_price": 798,
+        "old_price": 1999,
+        "discount": 160,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 2.9,
+        "item_id": 1
+    },
+    {
+        "image": "https://i.ibb.co/hDVSC9N/b810dca87b90.jpg",
+        "brand": "Isparro",
+        "description": "Large 35 L Laptop Backpack Stylish Light Weight Backpac...",
+        "new_price": 524,
+        "old_price": 17,
+        "discount": 169,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.1,
+        "item_id": 2
+    },
+    {
+        "image": "https://i.ibb.co/cwZSFbS/ab3659e61750.jpg",
+        "brand": "Flycraft",
+        "description": "Medium 30 L Laptop Backpack simna.1550/1 navy blue yell...",
+        "new_price": 529,
+        "old_price": 1599,
+        "discount": 66,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.6,
+        "item_id": 3
+    },
+    {
+        "image": "https://i.ibb.co/MfwW8qc/2cf8fb3fd474.jpg",
+        "brand": "AMERICAN TOURISTER",
+        "description": "32.5 L Backpack Fizz Sch Bag",
+        "new_price": 189,
+        "old_price": 23,
+        "discount": 42,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.3,
+        "item_id": 4
+    },
+    {
+        "image": "https://i.ibb.co/FwhPZx0/2a303a406383.jpg",
+        "brand": "NorthZone",
+        "description": "Large 35 L Backpack Waterproof Laptop Bag/Backpack for ...",
+        "new_price": 635,
+        "old_price": 1999,
+        "discount": 68,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.3,
+        "item_id": 5
+    },
+    {
+        "image": "https://i.ibb.co/x3yLJ5p/e67755d45ba6.jpg",
+        "brand": "SAFARI",
+        "description": "Large 38 L Backpack 19 CASUAL BACKPACK BLUE",
+        "new_price": 839,
+        "old_price": 2348,
+        "discount": 164,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.6,
+        "item_id": 6
+    },
+    {
+        "image": "https://i.ibb.co/Hr2V3Jn/bd60a9587068.jpg",
+        "brand": "SAFARI",
+        "description": "Small 15 L Backpack DAYPACK",
+        "new_price": 365,
+        "old_price": 799,
+        "discount": 94,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.6,
+        "item_id": 7
+    },
+    {
+        "image": "https://i.ibb.co/mBPxxkG/f9a0a3788299.jpg",
+        "description": "30 L Casual Waterproof Laptop Backpack/Office Bag/Schoo...",
+        "new_price": 37,
+        "old_price": 1999,
+        "discount": 81,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.2,
+        "item_id": 8
+    },
+    {
+        "image": "https://i.ibb.co/YPGbbBZ/87053ad11608.jpg",
+        "brand": "Flycraft",
+        "description": "Medium 30 L Laptop Backpack simna.1361/2 red grey casua...",
+        "new_price": 527,
+        "old_price": 1199,
+        "discount": 156,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.3,
+        "item_id": 9
+    },
+    {
+        "image": "https://i.ibb.co/XkXpd3Z/1af585e09206.jpg",
+        "brand": "Blowzy",
+        "description": "Brown Men & Women Sling Bag - Extra Spacious",
+        "new_price": 426,
+        "old_price": 1999,
+        "discount": 78,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.2,
+        "item_id": 10
+    }
+]
+    

@@ -1,0 +1,122 @@
+[
+    {
+        "image": "https://i.ibb.co/XbC1QzQ/b28ddf912158.jpg",
+        "brand": "Kedar Fab",
+        "description": "Embroidered Poly Silk Semi Stitched Anarkali Gown",
+        "color": "Red",
+        "new_price": 439,
+        "old_price": 3999,
+        "discount": 189,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.1,
+        "item_id": 1
+    },
+    {
+        "image": "https://i.ibb.co/qs2KLdV/50b26124bd8f.jpg",
+        "brand": "rahul",
+        "description": "Printed Crepe Blend Stitched Flared/A-line Gown",
+        "color": "Orange",
+        "new_price": 339,
+        "old_price": 1899,
+        "discount": 82,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.8,
+        "item_id": 2
+    },
+    {
+        "image": "https://i.ibb.co/Jq2Mcp9/ceafb1ffc55b.jpg",
+        "brand": "Vaani Creation",
+        "description": "Embroidered Net Stitched Flared/A-line Gown",
+        "color": "Purple",
+        "new_price": 1439,
+        "old_price": 1689,
+        "discount": 14,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.2,
+        "item_id": 3
+    },
+    {
+        "image": "https://i.ibb.co/Pr3vZkB/4138c87a4802.jpg",
+        "brand": "Afsana",
+        "description": "Embroidered Pure Georgette Semi Stitched Anarkali Gown",
+        "color": "Dark Blue",
+        "new_price": 1739,
+        "old_price": 5699,
+        "discount": 69,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.3,
+        "item_id": 4
+    },
+    {
+        "image": "https://i.ibb.co/NFX27Zm/14c0a919799c.jpg",
+        "brand": "ZOOBA",
+        "description": "Girls Maxi/Full Length Party Dress",
+        "color": "Red, Sleeveless",
+        "new_price": 284,
+        "old_price": 999,
+        "discount": 171,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.9,
+        "item_id": 5
+    },
+    {
+        "image": "https://i.ibb.co/F4Mhqh5/b2c82fc9d46c.jpg",
+        "brand": "Kedar Fab",
+        "description": "Embroidered, Self Design Silk Blend Semi Stitched Anark...",
+        "color": "Maroon, Beige",
+        "new_price": 357,
+        "old_price": 4999,
+        "discount": 92,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 2.7,
+        "item_id": 6
+    },
+    {
+        "image": "https://i.ibb.co/NLVHhVK/6f90afbcaaa9.jpg",
+        "brand": "Kedar Fab",
+        "description": "Embroidered Silk Blend Semi Stitched Anarkali Gown",
+        "color": "Maroon",
+        "new_price": 369,
+        "old_price": 3999,
+        "discount": 90,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.6,
+        "item_id": 7
+    },
+    {
+        "image": "https://i.ibb.co/rfznw1z/3f6d59458aa6.jpg",
+        "brand": "Ethnic Yard",
+        "description": "Embroidered Georgette Blend Semi Stitched Anarkali Gown",
+        "color": "Beige",
+        "new_price": 1369,
+        "old_price": 4699,
+        "discount": 70,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.1,
+        "item_id": 8
+    },
+    {
+        "image": "https://i.ibb.co/BZg8TMm/ba13c2608baf.jpg",
+        "brand": "Zinariya Fab",
+        "description": "Net Semi Stitched Anarkali Gown",
+        "color": "Purple",
+        "new_price": 839,
+        "old_price": 399,
+        "discount": 72,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.5,
+        "item_id": 9
+    },
+    {
+        "image": "https://i.ibb.co/R3wCRbF/d4b5be9caf9e.jpg",
+        "brand": "Femvy",
+        "description": "Solid Georgette Blend Stitched Flared/A-line Gown",
+        "color": "Light Green",
+        "new_price": 439,
+        "old_price": 1999,
+        "discount": 78,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.7,
+        "item_id": 10
+    }
+]
